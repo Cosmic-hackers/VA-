@@ -20,7 +20,7 @@ Omnix is a voice-controlled virtual assistant created by Siddu, designed to hand
 
 Clone this repository:
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/omnix-voice-assistant.git
+git clone https://github.com/Cosmic-hackers/VA-.
 
 Navigate to the project directory:
 
